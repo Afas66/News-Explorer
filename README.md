@@ -17,7 +17,7 @@ TypeScript – Type safety and better developer experience
 Tailwind CSS – Utility-first styling framework
 shadcn-ui – Modern React UI components
 📸 Screenshots
-Screenshot 2026-01-16 at 21.42.47.png
+
 💻 Installation & Development
 If you want to run the project locally, here’s how:
 # Install dependencies
